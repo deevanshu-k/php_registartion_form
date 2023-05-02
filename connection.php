@@ -1,7 +1,7 @@
 <?php
 $servername = "127.0.0.1";
-$username = "root2";
-$password = "SdbcServer@125502";
+$username = "User";
+$password = "PASSWORD";
 $dbname = "firstyearinfo";
 
 
